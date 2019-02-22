@@ -1,2 +1,2 @@
 # Python-Practice
-This repo contains solutions to various problem from LeetCode using Python.
+This repo contains solutions to various problems from LeetCode using Python.
